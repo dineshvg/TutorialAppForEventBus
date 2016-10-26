@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TinyBusTest</string>
+    <string name="hello_world">text to post</string>
+    <string name="hello_world2">text from up</string>
+</resources>
